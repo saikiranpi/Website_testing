@@ -1,4 +1,4 @@
-# Use an official Apache runtime as the base image
+# Use an official Apache runtime as the base image image
 FROM httpd:latest
 
 # Copy your HTML files to the appropriate location in the container
